@@ -9,3 +9,6 @@
 - style.md 추가
 
 # 치킨 양념으로
+
+## 네비게이션 추가
+- navigation.md 파일추가
